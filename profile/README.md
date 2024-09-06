@@ -1,6 +1,6 @@
 # Historical Capitals of India
 
-## Project Overview - [Link](https://historical-indian-cities.netlify.app/)
+## Project Overview - [Link](https://historical-capitals-india.netlify.app/)
 
 **Historical Capitals** is an interactive web application designed to explore the history of India's ancient capitals through a map-based interface. Users can explore historical data via a dynamic Leaflet map on the left side of the screen, while a scrollable list of capitals is available on the right. The application provides a seamless experience: clicking a map marker opens a popup with the capital's name, and selecting a capital from the list highlights its marker on the map and shows detailed information below. The app also features a chatbot powered by a fine-tuned Gemini-1.5-flash LLM and a feedback form with automated email acknowledgment.
 
